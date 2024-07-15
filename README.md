@@ -5,8 +5,6 @@
 
 ![image](https://github.com/user-attachments/assets/0af996c0-d002-475a-9ee2-aea44303f953)
 
-Для обох видов загрузки данных будут созданы два отдельных DAG
-
 ## Порядок выполнения задания 
 1) Создание аккаунта на Snowflake
 2) Создание процедуры и запуск ее с Airflow для загрузки "сырых" данных в Internal Snowflake Stage.
@@ -19,3 +17,8 @@
 1) Главная задача,как по мне,грамотно настроить подключение в Airflow для Snowflake.
 2) Создание таблиц одним запросом в Snowflake в Worksheets
 3) Написание DAGа в VS Code
+4) Написание запросов для остальных заданий
+
+## Результаты DAG 
+
+![image](https://github.com/user-attachments/assets/ea5c6271-3c96-497c-b99a-40081cbe70cb)
